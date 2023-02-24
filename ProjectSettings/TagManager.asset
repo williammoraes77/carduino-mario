@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ponto1
+  - Ponto2
+  - Ponto3
+  - Ponto4
+  - BowserPonto1
+  - BowserPonto2
+  - BowserPonto3
+  - BowserPonto4
+  - YoshiPonto1
+  - YoshiPonto2
+  - YoshiPonto3
+  - YoshiPonto4
+  - RosalinePonto1
+  - RosalinePonto2
+  - RosalinePonto3
+  - RosalinePonto4
+  - BooPonto1
+  - BooPonto2
+  - BooPonto3
+  - BooPonto4
+  - BooSecondPonto1
+  - BooSecondPonto2
+  - BooSecondPonto3
+  - BooSecondPonto4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
